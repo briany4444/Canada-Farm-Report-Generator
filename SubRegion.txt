@@ -1,0 +1,16 @@
+
+       SUB-REGION WITH MOST HORSES/PONIES BY REGION in 2016
+       ----------------------------------------------------
+       AB       Census-Agricultural-Region-3         27945
+       ON       Western-Ontario-Region               26744
+       SK       Census-Agricultural-Region-1          9888
+       BC       Thompson-Okanagan                     9141
+       QC       Monteregie                            4078
+       MB       Census-Agricultural-Region-2          3167
+       NS       Census-Agricultural-Region-3           743
+       NB       Census-Agricultural-Region-2           674
+       PE       Census-Agricultural-Region-2           618
+       NL       Census-Agricultural-Region-1           102
+       YT                                                0
+       NT                                                0
+

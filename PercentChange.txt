@@ -1,0 +1,15 @@
+
+      PERCENTAGE CHANGE OF ANIMALS (2011-2016)
+      ----------------------------------------
+                      2011     2016     Change
+
+                Mink  43.4     38.7      -4.7
+       Horses-Ponies  21.7     20.5      -1.2
+          Wild-Boars   0.5      0.0      -0.5
+      Llamas-Alpacas   1.7      1.5      -0.3
+          Elk-Wapiti   1.7      1.6      -0.2
+       Domestic-Deer   1.2      1.1      -0.1
+       Bison-Buffalo   6.9      8.4      +1.5
+             Rabbits  10.2     12.1      +1.9
+               Goats  12.5     16.2      +3.7
+
